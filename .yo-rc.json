@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "applicationType": "gateway",
+    "gitCompany": "",
+    "baseName": "store",
+    "packageName": "io.github.jhipster.application",
+    "packageFolder": "io/github/jhipster/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": "true",
+    "messageBroker": "kafka",
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.5.0",
+    "jwtSecretKey": "Njk1M2QxOGM1NmYwN2QwMzY2MzIzOTZlNDJmY2MwYjFlZTZiNTQ0MWZiY2JmOTRhZTIxNjllOGY5NTBkNWE5MDg0NDc4OTI4MWE3ZTMyYmZjYzAwYzhiNDk0NDlkMmQxNjUwM2M0MzdiNTM5NDM4NWExNjVmOWQxOWZhY2Y1NTY="
+  },
+  "git-provider": "GitHub",
+  "git-company": "jcoudsi",
+  "repository-name": "store"
+}
